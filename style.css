@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: lab(36.36% 52.3 34.57);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    border-bottom: double 5px rgb(77, 4, 4);
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
