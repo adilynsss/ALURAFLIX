@@ -30,6 +30,11 @@ iframe, video {
 }
 
 h2 {
-    font-size: 25px;
+    font-size: 23px;
+    text-align: center;
+}
+header {
+    font-size: 60px;
+    padding: 6px;
     text-align: center;
 }
