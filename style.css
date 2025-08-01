@@ -33,3 +33,9 @@ h2 {
     font-size: 25px;
     text-align: center;
 }
+
+header {
+    font-size: 40px;
+    padding: 6px;
+    text-align: center;
+}
